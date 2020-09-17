@@ -1,3 +1,3 @@
 # ExpressSequelizeBase
 
-Change 'config/config.json' to 'config/sequelize.json'
+Change file name 'config/config.json' to 'config/sequelize.json'
